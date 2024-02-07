@@ -28,7 +28,7 @@
   know how to optimize queries and project performance.
 </p>
 <p>
-  I always adhere to all MVC / SOLID / PSR coding standards where possible. I
+  I always adhere to all MVC / SOLID etc... coding standards where possible. I
   love working with various APIs, parsers, big data, interesting architectural
   solutions.
 </p>

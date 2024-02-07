@@ -289,5 +289,5 @@
 I work only with a contract and for me the salary is normal per year
 30$ * 5 hour * 30 day = 4500$ * 12 month = 54000$
 + 30% of each project if in a year the total projects that I created exceeded 30% of my annual salary
-<h3>I work remote</h3>
+[I work remote]
 </pre>

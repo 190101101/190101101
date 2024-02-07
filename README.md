@@ -45,7 +45,7 @@
     <b>✔ :: VCS: / Git / Github / npm / yarn</b>
     <b>✔ :: MVC / SOLID / OOP / Pattern Designs</b>
     <b>✔ :: Html5 / CSS3 / Bootstrap5 / tailwind</b>
-    <b>✔ :: REST / GraphQL / API / Swagger/</b>
+    <b>✔ :: REST / GraphQL / API / Swagger</b>
     <b>✔ :: JSON / SOAP/ XML</b>
     <b>✔ :: Microservices / RabbitMQ / Redis / Puppeteer</b>
     <b>✔ :: Docker / Kubernetes / Ansible</b>

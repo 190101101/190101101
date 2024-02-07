@@ -285,3 +285,6 @@
 <p>
 	This is my current stack, but I know everything that a senior developer should know at a very high level in PHP. but I have already completely switched to Java script
 </p>
+<p>I work only with a contract and for me the salary is normal per year</p>
+<p>30$ * 5 hour * 30 day = 4500$ * 12 month = 54000$</p>
+<p>+ 30% of each project if in a year the total projects that I created exceeded 30% of my annual salary</p>

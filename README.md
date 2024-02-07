@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/190101101/190101101/raw/main/me.JPG" width="250" height="172" style="border-radius: 50%;" alt="Orxan" />
-</p>
+<p align='center'><img align="center" width='250' height='172' src="https://github.com/190101101/190101101/me.JPG" alt="Orxan" /></p>
 <h1 align="center">Hi 👋, I'm Orxan Shirinov</h1>
 <p>
   hi my name is 0rxan i am a JavaScript web developer. I want to tell you about

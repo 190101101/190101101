@@ -282,3 +282,6 @@
     />
   </a>
 </p>
+<p>
+	This is my current stack, but I know everything that a senior developer should know at a very high level in PHP. but I have already completely switched to Java script
+</p>

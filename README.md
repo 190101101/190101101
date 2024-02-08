@@ -296,5 +296,5 @@ then I will receive an additional 30% from each project.
 This means that annually, the employer receives 30% from the projects, 
 and I receive 70%. After the surplus, I receive 30%, and the employer receives 70%.
 54000$ + 16200$ = 70200$ >= 30%
-</pre>
 [I work remote]
+</pre>

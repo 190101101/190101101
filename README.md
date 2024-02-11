@@ -52,7 +52,7 @@
     <b>✔ :: Docker / Kubernetes / Ansible</b>
     <b>✔ :: Linux / Debian</b>
 </pre>
-<h3 align="center">Full Stack Web Developer</h3>
+
 <p align="left">
   <a rel="noreferrer">
     <img

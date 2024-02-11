@@ -1,6 +1,5 @@
 <p align='center'><img align="center" width='250' height='172' src="https://github.com/190101101/190101101/raw/main/me.JPG" alt="Orxan" /></p>
 <h1 align="center">Hi 👋, I'm Orxan Shirinov</h1>
-<noscript>https://github.com/devicons/devicon</noscript>
 <p>
   hi my name is 0rxan i am a JavaScript web developer. I want to tell you about
   myself. I live in Azerbaijan, I am 32 years old, web development is my hobby
@@ -300,3 +299,4 @@ and I receive 70%. After the surplus, I receive 30%, and the employer receives 7
 </pre>
 <a href="https://190101101.github.io/developer/">https://190101101.github.io/developer/</a>
 <a href="https://190101101.github.io/certificate/">https://190101101.github.io/certificate/</a>
+<noscript>https://github.com/devicons/devicon</noscript>

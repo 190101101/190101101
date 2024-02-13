@@ -49,7 +49,7 @@
     <b>✔ :: JSON / SOAP/ XML</b>
     <b>✔ :: Microservices / RabbitMQ / Redis / Puppeteer</b>
     <b>✔ :: Docker / Kubernetes / Ansible</b>
-    <b>✔ :: Linux / Debian, Bash</b>
+    <b>✔ :: Linux / Debian / Bash</b>
 </pre>
 
 <p align="left">

@@ -41,13 +41,13 @@
     <b>✔ :: JavaScript / Node js / Express js / Electron js</b>
     <b>✔ :: TypeScript / Nest js  </b>
     <b>✔ :: React / Redux / Next js / GraphQL / Apollo Server / React Native</b>
-    <b>✔ :: MySQL / SQL / PostgreSQL, MongoDb / Mongoose / Firebase</b>
+    <b>✔ :: MySQL / SQL / PostgreSQL / Prisma / Sequelize / MongoDb / Mongoose / Firebase</b>
     <b>✔ :: VCS: / Git / Github / npm / yarn</b>
     <b>✔ :: MVC / SOLID / OOP / Pattern Designs</b>
     <b>✔ :: Html5 / CSS3 / Bootstrap5 / tailwind</b>
     <b>✔ :: REST / GraphQL / API / Swagger</b>
     <b>✔ :: JSON / SOAP/ XML</b>
-    <b>✔ :: Microservices / RabbitMQ / Redis / Puppeteer</b>
+    <b>✔ :: Microservices / RabbitMQ / Redis / Puppeteer / Socket.io</b>
     <b>✔ :: Docker / Kubernetes / Ansible</b>
     <b>✔ :: Linux / Debian / Bash</b>
 </pre>

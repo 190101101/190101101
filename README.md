@@ -41,7 +41,7 @@
     <b>✔ :: JavaScript / Node js / Express js / Electron js</b>
     <b>✔ :: TypeScript / Nest js  </b>
     <b>✔ :: React / Redux / Next js / GraphQL / Apollo Server / React Native</b>
-    <b>✔ :: MySQL / SQL / PostgreSQL, MongoDb / Mongoose</b>
+    <b>✔ :: MySQL / SQL / PostgreSQL, MongoDb / Mongoose / Firebase</b>
     <b>✔ :: VCS: / Git / Github / npm / yarn</b>
     <b>✔ :: MVC / SOLID / OOP / Pattern Designs</b>
     <b>✔ :: Html5 / CSS3 / Bootstrap5 / tailwind</b>

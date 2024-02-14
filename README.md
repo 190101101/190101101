@@ -47,7 +47,7 @@
     <b>✔ :: Html5 / CSS3 / Bootstrap5 / tailwind</b>
     <b>✔ :: REST / GraphQL / API / Swagger</b>
     <b>✔ :: JSON / SOAP/ XML</b>
-    <b>✔ :: Microservices / RabbitMQ / Redis / Puppeteer / Socket.io</b>
+    <b>✔ :: Microservices / RabbitMQ / PM2 /Redis / Puppeteer / Socket.io</b>
     <b>✔ :: Docker / Kubernetes / Ansible</b>
     <b>✔ :: Linux / Debian / Bash</b>
 </pre>

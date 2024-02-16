@@ -300,4 +300,4 @@ and I receive 70%. After the surplus, I receive 30%, and the employer receives 7
 <a href="https://190101101.github.io/developer/">https://190101101.github.io/developer/</a>
 <a href="https://190101101.github.io/certificate/">https://190101101.github.io/certificate/</a>
 <noscript>https://github.com/devicons/devicon</noscript>
-<img align="center" width='250' height='172' src="https://github.com/190101101/190101101/raw/main/cicada.jpg" alt="Orxan" />
+<p align='center'><img align="center" width='1000' height='359' src="https://github.com/190101101/190101101/raw/main/cicada.jpg" /></p>

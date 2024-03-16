@@ -281,6 +281,16 @@
       height="40"
     />
   </a>
+  <a href="https://www.json.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg"
+      alt="json"
+      width="40"
+      height="40"
+    />
+  </a>
+
+ 
 </p>
 <p>
 	This is my current stack, but I know everything that a senior developer should know at a very high level in PHP. but I have already completely switched to Java script

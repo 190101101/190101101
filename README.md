@@ -290,6 +290,24 @@
     />
   </a>
 
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"
+      alt="babel"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg"
+      alt="babel"
+      width="40"
+      height="40"
+    />
+  </a>
+
  
 </p>
 <p>

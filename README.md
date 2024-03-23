@@ -1,9 +1,6 @@
 <p align='center'><img align="center" width='250' height='172' src="https://github.com/190101101/190101101/raw/main/me.JPG" alt="Orxan" /></p>
 <h1 align="center">Hi 👋, I'm Orxan Shirinov</h1>
 
-- 🌱 I’m currently training to become a [Cyber Architect](https://github.com/Cyber-Architect/Curriculum)
-- ![Views](https://komarev.com/ghpvc/?username=katipogluMustafa&label=%23&color=gray)
-
 <p>
   hi my name is 0rxan i am a JavaScript web developer. I want to tell you about
   myself. I live in Azerbaijan, I am 32 years old, web development is my hobby

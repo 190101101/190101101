@@ -50,7 +50,7 @@
     <b>✔ :: JSON / SOAP/ XML</b>
     <b>✔ :: Microservices / RabbitMQ / PM2 /Redis / Puppeteer / Socket.io</b>
     <b>✔ :: Docker / Kubernetes / Ansible</b>
-    <b>✔ :: Linux / Debian / Bash</b>
+    <b>✔ :: Linux / Debian / Ubuntu /Bash</b>
 </pre>
 
 <p align="left">

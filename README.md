@@ -130,6 +130,24 @@
       height="40"
     />
   </a>
+
+  <a href="https://socket.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg"
+      alt="socket.io"
+      width="40"
+      height="40"
+    />
+  </a>
+	
+  <a href="https://jestjs.io/ru/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"
+      alt="jestjs.io"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://pptr.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg"

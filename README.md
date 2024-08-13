@@ -290,6 +290,22 @@
       height="40"
     />
   </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg"
+      alt="json"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg"
+      alt="json"
+      width="40"
+      height="40"
+    />
+  </a>
 
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
     <img

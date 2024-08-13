@@ -236,6 +236,22 @@
       height="40"
     />
   </a>
+  <a href="https://www.google.com/chrome/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg"
+      alt="linux"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nginx.org/en/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"
+      alt="linux"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
@@ -300,7 +316,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.json.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg"
       alt="json"

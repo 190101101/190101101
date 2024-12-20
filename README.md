@@ -1,6 +1,8 @@
 <p align='center'><img align="center" width='250' height='172' src="https://github.com/190101101/190101101/raw/main/me.JPG" alt="Orxan" /></p>
 <h1 align="center">Hi 👋, I'm Orxan Shirinov</h1>
 
+![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/a5001dd7874605dfa322c27011eaeeb1c04b45c2/github-snake-dark.svg)
+
 <p>
   hi my name is 0rxan i am a JavaScript web developer. I want to tell you about
   myself. I live in Azerbaijan, I am 32 years old, web development is my hobby

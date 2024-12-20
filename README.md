@@ -380,13 +380,20 @@ and I receive 70%. After the surplus, I receive 30%, and the employer receives 7
 </pre>
 <a href="https://190101101.github.io/developer/">https://190101101.github.io/developer/</a>
 <a href="https://190101101.github.io/certificate/">https://190101101.github.io/certificate/</a>
+
+
 <img
-src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
+  src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"
+  width="50"
+  height="50"
 />
 
 <img
-      src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"
-      alt="js"
-      width="50"
-      height="50"
-    />
+  src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"
+  width="50"
+  height="50"
+/>
+
+<img
+src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
+/>

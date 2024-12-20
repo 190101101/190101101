@@ -386,7 +386,7 @@ src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-
 
 <img
       src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"
-      alt="babel"
-      width="40"
-      height="40"
+      alt="js"
+      width="50"
+      height="50"
     />
